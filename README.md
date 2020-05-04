@@ -1,2 +1,2 @@
 # Italy-Coronavirus-Modeling
-Modeling and Forecasting Coronavirus using the Italy dataset
+Modeling and Forecasting Coronavirus using the Italy dataset.
